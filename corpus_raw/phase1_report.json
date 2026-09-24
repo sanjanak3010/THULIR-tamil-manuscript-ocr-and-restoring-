@@ -1,0 +1,103 @@
+{
+  "results": [
+    {
+      "filename": "pmuni0001.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0001.html",
+      "size_bytes": 301298,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0002.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0002.html",
+      "size_bytes": 50782,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0003_01.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0003_01.html",
+      "size_bytes": 214019,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0003_02.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0003_02.html",
+      "size_bytes": 264143,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0004.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0004.html",
+      "size_bytes": 248326,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0014.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0014.html",
+      "size_bytes": 145281,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0017.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0017.html",
+      "size_bytes": 427228,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0036.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0036.html",
+      "size_bytes": 183434,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0048.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0048.html",
+      "size_bytes": 51162,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0050.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0050.html",
+      "size_bytes": 21833,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0052.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0052.html",
+      "size_bytes": 80428,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0053.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0053.html",
+      "size_bytes": 290007,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0054.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0054.html",
+      "size_bytes": 360694,
+      "encoding": "UTF-8",
+      "status": "success"
+    },
+    {
+      "filename": "pmuni0055.html",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0055.html",
+      "size_bytes": 43164,
+      "encoding": "UTF-8",
+      "status": "success"
+    }
+  ],
+  "tscii_detected": false
+}

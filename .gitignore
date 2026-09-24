@@ -1,0 +1,29 @@
+# Environment variables (passwords, secret keys, DB config)
+.env
+*.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Uploaded media files
+uploads/*
+!uploads/.gitkeep
+node_modules/
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Database
+*.db
+*.sqlite
+*.sqlite3

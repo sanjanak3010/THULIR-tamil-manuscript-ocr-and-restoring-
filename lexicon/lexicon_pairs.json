@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "category": "word_segmentation",
+      "source": "தமிழ்மொழிஎன்தாய்மொழி",
+      "target": "தமிழ் மொழி என் தாய் மொழி",
+      "note": "continuous script -> word-segmented"
+    },
+    {
+      "id": 2,
+      "category": "word_segmentation",
+      "source": "நான்பள்ளிக்குச்சென்றேன்",
+      "target": "நான் பள்ளிக்குச் சென்றேன்",
+      "note": "continuous script -> word-segmented"
+    },
+    {
+      "id": 3,
+      "category": "word_segmentation",
+      "source": "அவன்நன்றாகப்படித்தான்",
+      "target": "அவன் நன்றாகப் படித்தான்",
+      "note": "continuous script -> word-segmented"
+    },
+    {
+      "id": 4,
+      "category": "word_segmentation",
+      "source": "மழைபெய்துகொண்டிருந்தது",
+      "target": "மழை பெய்துகொண்டிருந்தது",
+      "note": "continuous script -> word-segmented"
+    },
+    {
+      "id": 5,
+      "category": "pulli_restoration",
+      "source": "தமிழ் லக்கணம்",
+      "target": "தமிழ் இலக்கணம்",
+      "note": "missing initial vowel / pulli error"
+    },
+    {
+      "id": 6,
+      "category": "pulli_restoration",
+      "source": "மககள்",
+      "target": "மக்கள்",
+      "note": "missing dot (k -> kk)"
+    },
+    {
+      "id": 7,
+      "category": "pulli_restoration",
+      "source": "தமிழனாடு",
+      "target": "தமிழ்நாடு",
+      "note": "missing dot on ம்"
+    },
+    {
+      "id": 8,
+      "category": "pulli_restoration",
+      "source": "கணன",
+      "target": "கண்",
+      "note": "missing dot / corruption"
+    },
+    {
+      "id": 9,
+      "category": "sandhi_split",
+      "source": "மரப்பெட்டி",
+      "target": "மரம் + பெட்டி",
+      "note": "sandhi fusion -> split components"
+    },
+    {
+      "id": 10,
+      "category": "sandhi_split",
+      "source": "கோவில்காளை",
+      "target": "கோவில் + காளை",
+      "note": "sandhi compound -> split"
+    },
+    {
+      "id": 11,
+      "category": "sandhi_split",
+      "source": "பூம்பாவாய்",
+      "target": "பூ + பாவாய்",
+      "note": "sandhi fusion -> split"
+    },
+    {
+      "id": 12,
+      "category": "sandhi_split",
+      "source": "பண்பாடு",
+      "target": "பண்பு + நாடு",
+      "note": "sandhi split"
+    },
+    {
+      "id": 13,
+      "category": "numeral_normalization",
+      "source": "௧",
+      "target": "1",
+      "note": "Tamil numeral 1"
+    },
+    {
+      "id": 14,
+      "category": "numeral_normalization",
+      "source": "௨",
+      "target": "2",
+      "note": "Tamil numeral 2"
+    },
+    {
+      "id": 15,
+      "category": "numeral_normalization",
+      "source": "௩",
+      "target": "3",
+      "note": "Tamil numeral 3"
+    },
+    {
+      "id": 16,
+      "category": "numeral_normalization",
+      "source": "௰",
+      "target": "10",
+      "note": "Tamil numeral 10"
+    },
+    {
+      "id": 17,
+      "category": "lexical_normalization",
+      "source": "யானை",
+      "target": "யானை",
+      "note": "classical spelling preserved"
+    },
+    {
+      "id": 18,
+      "category": "lexical_normalization",
+      "source": "யாண்டு",
+      "target": "ஆண்டு",
+      "note": "archaic word -> modern equivalent"
+    },
+    {
+      "id": 19,
+      "category": "lexical_normalization",
+      "source": "நோன்மை",
+      "target": "தவம்",
+      "note": "archaic word -> modern equivalent"
+    },
+    {
+      "id": 20,
+      "category": "lexical_normalization",
+      "source": "அரும்பெறல்",
+      "target": "அரிய",
+      "note": "archaic compound -> modern equivalent"
+    }
+  ]
+}

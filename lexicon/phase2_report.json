@@ -1,0 +1,187 @@
+{
+  "files_cleaned": 14,
+  "total_tokens": 91603,
+  "unique_vocab_size": 48410,
+  "top_20_words": [
+    [
+      "கொளு",
+      399
+    ],
+    [
+      "து",
+      342
+    ],
+    [
+      "போற்றி",
+      249
+    ],
+    [
+      "கு",
+      246
+    ],
+    [
+      "று",
+      204
+    ],
+    [
+      "என்று",
+      177
+    ],
+    [
+      "இல்",
+      144
+    ],
+    [
+      "என்னும்",
+      125
+    ],
+    [
+      "டு",
+      120
+    ],
+    [
+      "தானே",
+      117
+    ],
+    [
+      "எல்லாம்",
+      112
+    ],
+    [
+      "என்",
+      103
+    ],
+    [
+      "இல்லை",
+      101
+    ],
+    [
+      "வேண்டும்",
+      93
+    ],
+    [
+      "உரைத்தது",
+      88
+    ],
+    [
+      "படும்",
+      87
+    ],
+    [
+      "தரும்",
+      82
+    ],
+    [
+      "பொருள்",
+      81
+    ],
+    [
+      "ஒரு",
+      80
+    ],
+    [
+      "கொண்டு",
+      77
+    ]
+  ],
+  "file_stats": [
+    {
+      "filename": "pmuni0001.txt",
+      "raw_size": 155420,
+      "clean_size": 108149,
+      "tokens": 9584,
+      "unique_tokens": 6481
+    },
+    {
+      "filename": "pmuni0002.txt",
+      "raw_size": 24259,
+      "clean_size": 17872,
+      "tokens": 1852,
+      "unique_tokens": 1489
+    },
+    {
+      "filename": "pmuni0003_01.txt",
+      "raw_size": 88821,
+      "clean_size": 74338,
+      "tokens": 8648,
+      "unique_tokens": 5873
+    },
+    {
+      "filename": "pmuni0003_02.txt",
+      "raw_size": 111179,
+      "clean_size": 90776,
+      "tokens": 9344,
+      "unique_tokens": 6689
+    },
+    {
+      "filename": "pmuni0004.txt",
+      "raw_size": 115451,
+      "clean_size": 88327,
+      "tokens": 9094,
+      "unique_tokens": 6761
+    },
+    {
+      "filename": "pmuni0014.txt",
+      "raw_size": 55876,
+      "clean_size": 52867,
+      "tokens": 5587,
+      "unique_tokens": 3485
+    },
+    {
+      "filename": "pmuni0017.txt",
+      "raw_size": 278265,
+      "clean_size": 212929,
+      "tokens": 9705,
+      "unique_tokens": 6480
+    },
+    {
+      "filename": "pmuni0036.txt",
+      "raw_size": 87101,
+      "clean_size": 59790,
+      "tokens": 6275,
+      "unique_tokens": 4855
+    },
+    {
+      "filename": "pmuni0048.txt",
+      "raw_size": 22051,
+      "clean_size": 17750,
+      "tokens": 1763,
+      "unique_tokens": 1420
+    },
+    {
+      "filename": "pmuni0050.txt",
+      "raw_size": 10644,
+      "clean_size": 7883,
+      "tokens": 899,
+      "unique_tokens": 634
+    },
+    {
+      "filename": "pmuni0052.txt",
+      "raw_size": 34929,
+      "clean_size": 28277,
+      "tokens": 2928,
+      "unique_tokens": 2542
+    },
+    {
+      "filename": "pmuni0053.txt",
+      "raw_size": 114622,
+      "clean_size": 104549,
+      "tokens": 10726,
+      "unique_tokens": 6486
+    },
+    {
+      "filename": "pmuni0054.txt",
+      "raw_size": 155314,
+      "clean_size": 127778,
+      "tokens": 13735,
+      "unique_tokens": 9565
+    },
+    {
+      "filename": "pmuni0055.txt",
+      "raw_size": 18814,
+      "clean_size": 14769,
+      "tokens": 1463,
+      "unique_tokens": 1263
+    }
+  ]
+}

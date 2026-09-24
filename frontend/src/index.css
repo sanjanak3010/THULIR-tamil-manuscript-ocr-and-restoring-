@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    background-color: #0D0B08;
+    color: #E8DCC4;
+  }
+}
+
+.font-serif-heading {
+  font-family: 'Cinzel', serif;
+}
+
+.font-tamil-serif {
+  font-family: 'Noto Serif Tamil', serif;
+}
+
+.font-tamil-sans {
+  font-family: 'Noto Sans Tamil', sans-serif;
+}
+
+/* Custom dark scrollbar for OCR and result text containers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #14100C;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3A2E22;
+  border-radius: 4px;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #D4AF37;
+}
+
+/* Glassmorphism & Card Utilities */
+.heritage-card {
+  background: linear-gradient(145deg, rgba(26, 20, 15, 0.9), rgba(16, 12, 9, 0.95));
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+}
+
+.heritage-card-glow {
+  background: linear-gradient(145deg, rgba(35, 27, 20, 0.95), rgba(20, 15, 11, 0.98));
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  box-shadow: 0 0 35px -5px rgba(212, 175, 55, 0.15);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #FFF5E4 0%, #E6C280 50%, #D4AF37 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.teal-gradient-text {
+  background: linear-gradient(135deg, #5EEAD4 0%, #2DD4BF 50%, #14B8A6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

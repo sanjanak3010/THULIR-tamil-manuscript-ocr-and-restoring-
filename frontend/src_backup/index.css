@@ -1,0 +1,17 @@
+@tailwindcss base;
+@tailwindcss components;
+@tailwindcss utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #FDF8F0;
+  color: #2C1810;
+}
+
+.font-serif-heading {
+  font-family: 'Cinzel', serif;
+}
+
+.font-tamil {
+  font-family: 'Noto Sans Tamil', sans-serif;
+}
