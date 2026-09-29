@@ -24,7 +24,7 @@ import {
   ArrowRight
 } from 'lucide-react';
 
-const API_BASE = 'http://127.0.0.1:8000';
+ const API_BASE = "https://thulir-tamil-manuscript-ocr-and.onrender.com"; 
 
 export default function App() {
   // Navigation & UI Language state
